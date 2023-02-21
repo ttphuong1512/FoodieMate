@@ -14,7 +14,7 @@ Instead of looking for a recipe, user can also search for nearby restaurants and
 - Implement Navigation, Material Design
 - Sample Test using JUnit4, Expresso
 
-#### FoodieMate App Screenshots
+### FoodieMate App Screenshots
 
 <table>
   <tr>
