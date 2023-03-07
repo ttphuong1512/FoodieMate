@@ -1,19 +1,18 @@
 ## FOODIEMATE ANDROID APP
-This is an recipe app which fetches recipe data from spoonacularAPI, recommends random recipes for users. The users can choose a recipe to see all the details including the ingredients, instructions and the nutrition facts. Users are also able to search for a recipe based on the ingredients, types of meals or dietary preferences. If the users like some recipe and want to keep it for reference, they can save the recipein their local device.
-Instead of looking for a recipe, user can also search for nearby restaurants and locate them on the map which fetch data from Google API.
+This recipe app fetches JSON data from spoonacularAPI and recommends random recipes for users. Users can choose a recipe to see all the details including the ingredients, instructions, and nutrition facts. Users are also able to search for a recipe based on ingredients, types of meals, or dietary preferences. If users like some recipes and want to keep them for reference, they can save the recipe on a local database.
+Instead of looking for a recipe, users can also search for nearby restaurants and locate them on the map that fetches data from Google API.
 <br>
 
 ### Technologies used:
 - Dagger Hilt: dependency injection
 - Retrofit: API call
 - ROOM: database
-- RxJava3: handle asyn tasks
+- RxJava3: handle async tasks
 - Glide: load image
-- Follow MVVM pattern
+- Follow the MVVM pattern
 - Using DataBinding to communicate across UI and data source
 - Implement Navigation, Material Design
 - Sample Test using JUnit4, Expresso
-
 ### FoodieMate App Screenshots
 
 <table>
